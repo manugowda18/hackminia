@@ -6,7 +6,8 @@ import c from "../assets/smallpeaces/3.png";
 
 const BeforeShedule = () => {
     return (
-        <div id="tracks">
+        // className='bg-svg sm:bg-[length:900px_4000px] bg-[length:1000px_1700px] bg-center p-4
+        <div>
             <img src={Illimage} alt="ill" className='sm:w-[1027px] w-auto sm:h-[747px] w-auto p-8' />
             <img src={a} alt="Shape" className='sm:w-16 w-5 sm:mt-[-60px] mt-[1px] sm:ml-[1070px] ml-[40px] ' />
             <div className='text-end text-black sm:text-[70px] text-[24px] font-medium'>

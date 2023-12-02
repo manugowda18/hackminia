@@ -1,5 +1,7 @@
 import React from 'react';
 import 'tailwindcss/tailwind.css';
+
+// import bg from "../assets/bg.svg";
 import i from "../assets/smallpeaces/10.png";
 import j from "../assets/smallpeaces/11.png";
 import a from "../assets/smallpeaces/6.png";

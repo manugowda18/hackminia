@@ -1,6 +1,6 @@
 import './App.css';
 
-import { Navbar, Hero, BeforeShedule, Schedule, Prizes } from './components';
+import { Navbar, Hero, BeforeShedule, Schedule, Prizes, Tracks } from './components';
 
 function App() {
 
@@ -9,10 +9,9 @@ function App() {
       <Navbar />
       <Hero />
       <BeforeShedule />
-      <div className='p-4'>
-        <Schedule />
-        <Prizes />
-      </div>
+      <Schedule />
+      <Prizes />
+      <Tracks />
     </>
   )
 }
