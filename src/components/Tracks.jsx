@@ -2,7 +2,7 @@ import React from 'react'
 
 const Tracks = () => {
     return (
-        <div id='tracks' className='bg-svg sm:bg-[length:900px_4000px] bg-[length:1000px_1700px] bg-center p-4 mt-10'>
+        <div id='tracks' className='bg-svg sm:bg-[length:900px_4000px] bg-[length:1000px_1700px] bg-center p-3 mt-10'>
             <style>
                 {`
                  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
