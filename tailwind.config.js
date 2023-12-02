@@ -17,7 +17,7 @@ export default {
         poppins: ['Poppins', 'sans-serif'],
       },
       backgroundImage: {
-        'svg': "url('./src/assets/bg.svg')",
+        'svg': "url('/src/assets/bg.svg')",
       },
     },
   },
