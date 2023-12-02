@@ -6,9 +6,16 @@ export default {
   ],
   theme: {
     extend: {
-      colors:{
-        'default':'#000'
-      }
+      colors: {
+        'default': '#000',
+        'grey': '#808080',
+        'apply': '#333',
+        'matblack': '#1b1b1b',
+        'college': '#F8FFD2',
+      },
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+      },
     },
   },
   plugins: [],

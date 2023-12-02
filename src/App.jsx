@@ -1,12 +1,18 @@
-import './App.css'
+import './App.css';
+
+import { Navbar, Hero, BeforeShedule, Schedule, Prizes } from './components';
 
 function App() {
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline text-default">
-        Hello world!
-      </h1>
+      <Navbar />
+      <Hero />
+      <BeforeShedule />
+      <div className='p-4'>
+        <Schedule />
+        <Prizes />
+      </div>
     </>
   )
 }
