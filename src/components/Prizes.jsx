@@ -93,7 +93,7 @@ const Prizes = () => {
                 <img src={j} alt="" className='w-20 h-20' /> */}
             <div>
                 <div className='text-center flex flex-col  justify-center items-center'>
-                    <h1 className='sm:text-9xl text-5xl text-blue-600 font-semibold sm:tracking-widest tracking-wide mt-20 '>₹100000</h1>
+                    <h1 className='sm:text-9xl text-5xl text-blue-600 font-semibold sm:tracking-widest tracking-wide mt-20 '>₹100000+</h1>
                     <h2 className='text-center sm:text-6xl text-2xl text-red-500 font-semibold sm:mt-[-20px] mt-[-7px]'>in prizes to win</h2>
                 </div>
                 <div className='flex sm:flex-row flex-col justify-center items-center'>
