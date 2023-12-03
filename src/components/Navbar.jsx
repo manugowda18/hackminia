@@ -33,12 +33,13 @@ const Navbar = () => {
     //Nav items Array
     const navItems = [
         { link: "Home", path: "/" },
-        { link: "Tracks", path: "#tracks" },
         { link: "Schedule", path: "#schedule" },
-        { link: "Problem Statements", path: "https://drive.google.com/file/d/1VyZwGkIB4J4oJD1-b6i9QjfPksQTPJ8Y/view?usp=sharing" },
         { link: "Prizes", path: "#prizes" },
+        { link: "Tracks", path: "#tracks" },
+        { link: "Problem Statements", path: "https://drive.google.com/file/d/1VyZwGkIB4J4oJD1-b6i9QjfPksQTPJ8Y/view?usp=sharing" },
         { link: "Sponsors", path: "#sponsors" },
         { link: "FAQs", path: "#faqs" },
+        { link: "Contact", path: "#contact" },
     ];
     const handleNavigation = (path) => {
         const targetSection = document.getElementById(path.substring(1)); // Remove '#' from path

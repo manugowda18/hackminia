@@ -12,8 +12,8 @@ function App() {
       <Schedule />
       <Prizes />
       <Tracks />
-      <Faqs />
       <Sponsers />
+      <Faqs />
       <Footer />
     </>
   )
