@@ -38,7 +38,7 @@ const Navbar = () => {
         { link: "Problem Statements", path: "problemstatement" },
         { link: "Prizes", path: "#prizes" },
         { link: "Sponsors", path: "sponsors" },
-        { link: "FAQs", path: "faqs" },
+        { link: "FAQs", path: "#faqs" },
     ];
     const handleNavigation = (path) => {
         const targetSection = document.getElementById(path.substring(1)); // Remove '#' from path

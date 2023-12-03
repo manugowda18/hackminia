@@ -98,7 +98,7 @@ const Schedule = () => {
         <div id="schedule" className='bg-svg sm:bg-[length:900px_4000px] bg-[length:1000px_1700px] bg-center'>
             <div className='flex flex-col justify-center items-center'>
                 <div className='sm:mt-[-70px] mt-[20px] mb-[-10]'>
-                    <h1 className='text-center text-black sm:text-[90px] text-[34px] font-medium underline decoration-dotted decoration-sky-500'>
+                    <h1 className='text-center text-black sm:text-[90px] text-[34px] font-medium underline decoration-dotted decoration-sky-500 uppercase'>
                         Schedule
                     </h1>
                 </div>

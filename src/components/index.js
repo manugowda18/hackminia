@@ -4,6 +4,7 @@ import BeforeShedule from "./BeforeShedule";
 import Schedule from "./Schedule";
 import Prizes from "./Prizes";
 import Tracks from "./Tracks";
+import Faqs from "./Faqs";
 
 export {
     Navbar,
@@ -11,5 +12,6 @@ export {
     BeforeShedule,
     Schedule,
     Prizes,
-    Tracks
+    Tracks,
+    Faqs
 };
