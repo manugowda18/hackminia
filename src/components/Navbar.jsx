@@ -37,7 +37,7 @@ const Navbar = () => {
         { link: "Schedule", path: "#schedule" },
         { link: "Problem Statements", path: "problemstatement" },
         { link: "Prizes", path: "#prizes" },
-        { link: "Sponsors", path: "sponsors" },
+        { link: "Sponsors", path: "#sponsors" },
         { link: "FAQs", path: "#faqs" },
     ];
     const handleNavigation = (path) => {

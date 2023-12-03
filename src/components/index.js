@@ -5,6 +5,8 @@ import Schedule from "./Schedule";
 import Prizes from "./Prizes";
 import Tracks from "./Tracks";
 import Faqs from "./Faqs";
+import Sponsers from "./Sponsers";
+import Footer from "./Footer";
 
 export {
     Navbar,
@@ -13,5 +15,7 @@ export {
     Schedule,
     Prizes,
     Tracks,
-    Faqs
+    Faqs,
+    Sponsers,
+    Footer
 };

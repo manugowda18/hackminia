@@ -5,7 +5,7 @@ import PESCE from "../assets/pescelogo.png";
 const Hero = () => {
 
     const title = "National level";
-    const date = "22-23 December, 2023 ";
+    const date = "05-06th January, 2024 ";
     const link = "https://devfolio.co";
 
     return (

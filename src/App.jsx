@@ -1,6 +1,6 @@
 import './App.css';
 
-import { Navbar, Hero, BeforeShedule, Schedule, Prizes, Tracks,Faqs } from './components';
+import { Navbar, Hero, BeforeShedule, Schedule, Prizes, Tracks, Faqs, Sponsers, Footer } from './components';
 
 function App() {
 
@@ -12,7 +12,9 @@ function App() {
       <Schedule />
       <Prizes />
       <Tracks />
-      <Faqs/>
+      <Faqs />
+      <Sponsers />
+      <Footer />
     </>
   )
 }

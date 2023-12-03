@@ -117,10 +117,10 @@ const Schedule = () => {
                 <div className='flex flex-row p-3'>
                     <div className="sm:w-[900px] w-[289px] sm:h-auto h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                         <img src={a} alt="shape" className='sm:w-16 w-5 sm:ml-[-40px] ml-0' />
-                        <h1 className='mt-6 p-1 uppercase sm:tracking-widest tracking-normal font-semibold'>DAY 1, 22nd December, 2023<span className='bg-red-600 border-2 border-red-600 '></span></h1>
+                        <h1 className='mt-6 p-1 uppercase sm:tracking-widest tracking-normal font-semibold'>DAY 1, 5th January, 2024<span className='bg-red-600 border-2 border-red-600 '></span></h1>
                         <EventList events={list.day1} />
                         <img src={g} alt="shape" className='sm:w-16 w-5 sm:ml-[-40px] z-[-30] ml-0' />
-                        <h1 className='mt-6 p-1 uppercase sm:tracking-widest tracking-normal font-semibold'>DAY 2, 23rd December, 2023<span className='bg-blue-600 border-2 border-blue-600 '></span></h1>
+                        <h1 className='mt-6 p-1 uppercase sm:tracking-widest tracking-normal font-semibold'>DAY 2, 6th January, 2024<span className='bg-blue-600 border-2 border-blue-600 '></span></h1>
                         <EventList events={list.day2} />
                         <img src={j} alt="shape" className='sm:w-16 w-5 sm:ml-[800px] z-[-30] ml-0' />
                     </div>
