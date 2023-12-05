@@ -65,7 +65,7 @@ const Contact = () => {
                                         Mohanapriya K J - 8088106575
                                     </p>
                                     <p className='sm:text-[9px] text-[11px]'>
-                                        Manoj Gowda - 9900882019
+                                        Manoj Gowda K S - 9900882019
                                     </p>
                                 </div>
                             </div>
