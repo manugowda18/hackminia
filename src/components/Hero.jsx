@@ -39,9 +39,9 @@ const Hero = () => {
                             <TypeAnimation
                                 sequence={[
                                     // Same substring at the start will only be typed out once, initially
-                                    'PES College of Engineering - MANDYA',
+                                    'P.E.S College Of Engineering - MANDYA',
                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                    'ಪಿಇಎಸ್ ಕಾಲೇಜ್ ಆಫ್ ಇಂಜಿನಿಯರಿಂಗ್ - ಮಂಡ್ಯ',
+                                    'ಪಿ.ಇ.ಎಸ್ ಕಾಲೇಜ್ ಆಫ್ ಇಂಜಿನಿಯರಿಂಗ್ - ಮಂಡ್ಯ',
                                     1000,
                                 ]}
                                 wrapper="span"

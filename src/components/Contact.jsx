@@ -39,10 +39,10 @@ const Contact = () => {
                             <div className='align-middle sm:text-base text-[20px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal mt-2'>
                                 <p className='border-b border-blue-500'>Faculty Coordinators</p>
                                 <div className='mt-5'>
-                                    <p className='text-[12px]'>
+                                    <p className='text-[12px] font-semibold'>
                                         Girish Babu M C - 9986886421
                                     </p>
-                                    <p className='text-[12px] mt-2 '>
+                                    <p className='text-[12px] mt-2 font-semibold'>
                                         DR REVANESH M - 9482999222
                                     </p>
                                 </div>
@@ -54,18 +54,21 @@ const Contact = () => {
                         <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                             <div className='sm:text-base text-[15px] uppercase text-start sm:p-3 p-6  sm:tracking-widest tracking-normal mt-2'>
                                 <p className='border-b border-red-500'>Student Coordinators</p>
-                                <div className='mt-2'>
-                                    <p className='sm:text-[9px] text-[11px]'>
+                                <div className='sm:mt-1 mt-2'>
+                                    <p className='sm:text-[9px] text-[11px] font-semibold'>
                                         Pranav K Bhaskar - 9606842596
                                     </p>
-                                    <p className='sm:text-[9px] text-[11px]'>
+                                    <p className='sm:text-[9px] text-[11px] font-semibold'>
                                         Aniruddh Koundinya - 9880196904
                                     </p>
-                                    <p className='sm:text-[9px] text-[11px]'>
+                                    <p className='sm:text-[9px] text-[11px] font-semibold'>
                                         Mohanapriya K J - 8088106575
                                     </p>
-                                    <p className='sm:text-[9px] text-[11px]'>
+                                    <p className='sm:text-[9px] text-[11px] font-semibold'>
                                         Manoj Gowda K S - 9900882019
+                                    </p>
+                                    <p className='sm:text-[9px] text-[11px] font-semibold'>
+                                        Nisarga R  - 9483768437
                                     </p>
                                 </div>
                             </div>
@@ -76,7 +79,7 @@ const Contact = () => {
 
                 <div className="overflow-x-auto sm:px-[350px] px-2 mb-5">
                     <div className='capitalize sm:text-xl text-normal p-5'>
-                       for Problem Statement queries <span className='text-blue-600'>||</span>
+                        for Problem Statement queries <span className='text-blue-600'>||</span>
                     </div>
                     <table className="min-w-full bg-white border">
                         <thead>
