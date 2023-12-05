@@ -1,5 +1,5 @@
 import './App.css';
-import { Navbar, Hero, BeforeShedule, Schedule, Prizes, Tracks, Faqs, Sponsers, Footer} from './components';
+import { Navbar, Hero, BeforeShedule, Schedule, Prizes, Tracks, Faqs, Sponsers, Footer, Contact } from './components';
 
 function App() {
 
@@ -13,6 +13,7 @@ function App() {
       <Tracks />
       <Sponsers />
       <Faqs />
+      <Contact />
       <Footer />
     </>
   )

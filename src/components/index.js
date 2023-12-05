@@ -8,6 +8,7 @@ import Faqs from "./Faqs";
 import Sponsers from "./Sponsers";
 import Footer from "./Footer";
 import ProblemStatement from "./ProblemStatement";
+import Contact from "./Contact";
 export {
     Navbar,
     Hero,
@@ -18,5 +19,6 @@ export {
     Faqs,
     Sponsers,
     Footer,
-    ProblemStatement
+    ProblemStatement,
+    Contact
 };
