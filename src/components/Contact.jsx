@@ -51,7 +51,7 @@ const Contact = () => {
                         <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-blue-600 border-2 border-black" />
                     </div>
                     <div className='flex flex-col p-3'>
-                        <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
+                        <div className="sm:w-[268px] w-[289px] sm:h-[198px] h-auto sm:mt-2 mt-2 bg-white border-2 border-black text-center " >
                             <div className='sm:text-base text-[15px] uppercase text-start sm:p-3 p-6  sm:tracking-widest tracking-normal mt-2'>
                                 <p className='border-b border-red-500'>Student Coordinators</p>
                                 <div className='sm:mt-1 mt-2'>
@@ -69,6 +69,9 @@ const Contact = () => {
                                     </p>
                                     <p className='sm:text-[9px] text-[11px] font-semibold'>
                                         Nisarga R  - 9483768437
+                                    </p>
+                                    <p className='sm:text-[9px] text-[11px] font-semibold'>
+                                        SagarSimha - 9148610396
                                     </p>
                                 </div>
                             </div>

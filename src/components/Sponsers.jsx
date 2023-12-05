@@ -27,8 +27,8 @@ const Sponsers = () => {
             <div className='flex flex-col sm:p-14 p-2'>
               <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                 <div className='align-middle sm:mt-12 mt-0  sm:text-base text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
+                  <p>TO Be</p>
                   <p>Announced</p>
-                  <p>..</p>
                   <p>Soon</p>
                 </div>
               </div>
@@ -37,8 +37,8 @@ const Sponsers = () => {
             <div className='flex flex-col sm:p-14 p-2'>
               <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                 <div className='align-middle sm:mt-12 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
+                  <p>TO Be</p>
                   <p>Announced</p>
-                  <p>..</p>
                   <p>Soon</p>
                 </div>
               </div>
@@ -47,8 +47,8 @@ const Sponsers = () => {
             <div className='flex flex-col sm:p-14 p-2'>
               <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                 <div className='align-middle sm:mt-12 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
+                  <p>TO Be</p>
                   <p>Announced</p>
-                  <p>..</p>
                   <p>Soon</p>
                 </div>
               </div>
@@ -59,8 +59,8 @@ const Sponsers = () => {
             <div className='flex flex-col sm:p-14 p-2'>
               <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                 <div className='align-middle sm:mt-12 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
+                  <p>TO Be</p>
                   <p>Announced</p>
-                  <p>..</p>
                   <p>Soon</p>
                 </div>
               </div>
@@ -69,8 +69,8 @@ const Sponsers = () => {
             <div className='flex flex-col sm:p-14 p-2'>
               <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                 <div className='align-middle sm:mt-12 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
+                  <p>TO Be</p>
                   <p>Announced</p>
-                  <p>..</p>
                   <p>Soon</p>
                 </div>
               </div>

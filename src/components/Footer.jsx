@@ -35,7 +35,7 @@ const Footer = () => {
                 Hackathon Venue
               </p>
               <p className='sm:text-[16px] text-[10px] font-normal capitalize sm:mt-3 mt-1'>
-                Dr HD Chowdayya Auditorium <br /> P.E.S College of Engineering Mandya, <br /> Karnataka, India
+                Dr HD Chowdaiah Auditorium <br /> P.E.S College of Engineering Mandya, <br /> Karnataka, India
               </p>
               <div className='mt-4'>
                 <button className="bg-white text-black font-bold py-2 px-4 rounded inline-flex items-center" onClick={openMap}>
