@@ -83,7 +83,7 @@ const Contact = () => {
                             <tr>
                                 <th className="border sm:text-base text-[12px] text-blue-500">Theme</th>
                                 <th className="border sm:text-base text-[12px] text-red-500">Coordinator</th>
-                                <th className="border sm:text-base text-[12px] text-blue-500">Contact Number</th>
+                                <th className="border sm:text-base text-[12px] text-blue-500">Contact</th>
                             </tr>
                         </thead>
                         <tbody>
