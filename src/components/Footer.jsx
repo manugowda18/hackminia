@@ -49,7 +49,20 @@ const Footer = () => {
         </div>
         <div>
           <div className="border-b w-200"></div>
-          
+          <div className='flex justify-between items-center sm:mt-5 mt-1 sm:px-20 px-2'>
+            <div className='flex sm:flex-row flex-col'>
+              <div>
+                <p className='sm:text-2xl text-[8px] mb-1'> Follow Us On</p>
+              </div>
+              <div className='flex'>
+                <a href="https://www.instagram.com/pescehackmania/"><FaInstagram className='sm:text-3xl text-base ml-3' /></a>
+                <a href="https://www.linkedin.com/company/hackmaniapesce/"><CiLinkedin className='sm:text-[32px] text-base ml-3' /></a>
+              </div>
+            </div>
+            <div className='capitalize flex'>
+              <a href="https://pescemandya.org" className='sm:text-[15px] text-[8px] p-3'> PES College Of Engineering,Mandya </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>

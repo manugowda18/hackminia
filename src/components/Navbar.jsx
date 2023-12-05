@@ -36,7 +36,7 @@ const Navbar = () => {
         { link: "Schedule", path: "#schedule" },
         { link: "Prizes", path: "#prizes" },
         { link: "Tracks", path: "#tracks" },
-        { link: "Problem Statements", path: "https://drive.google.com/file/d/1VyZwGkIB4J4oJD1-b6i9QjfPksQTPJ8Y/view?usp=sharing" },
+        { link: "Problem Statements", path: "/problemstatement" },
         { link: "Sponsors", path: "#sponsors" },
         { link: "FAQs", path: "#faqs" },
         { link: "Contact", path: "#contact" },
