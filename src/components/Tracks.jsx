@@ -69,9 +69,8 @@ const Tracks = () => {
                         <div className='flex flex-col sm:p-14 p-2'>
                             <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                                 <div className='align-middle sm:mt-12 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
-                                    <p>CivicScape</p>
-                                    <p>Challenge</p>
-                                    <p className='text-[10px]'>(Civil Engineering)</p>
+                                    <p>Abeyantrix </p>
+                                    <p className='text-[10px]'>(Civil InnoSpace)</p>
                                 </div>
                             </div>
                             <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-red-600 border-2 border-black" />
