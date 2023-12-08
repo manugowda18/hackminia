@@ -6,7 +6,7 @@ const Contact = () => {
         { theme: 'AI/ML', coordinator: 'Pranav K Bhaskar', contactNum: '9606842596' },
         { theme: 'Web/App Development', coordinator: 'Pranav K Bhaskar & Manoj Gowda K S', contactNum: '9606842596, 9900882019' },
         { theme: 'Blockchain', coordinator: 'Manoj Gowda K S', contactNum: '9900882019' },
-        { theme: 'Abeyantrix (Civil InnoStruct)', coordinator: 'Reethu G K', contactNum: '8095438206' },
+        { theme: 'Abeyantrix (Civil InnoStruct)', coordinator: 'Reethu & Toufeeq', contactNum: '8095438206,9513168009' },
         { theme: 'Design Quest (Mechanical Sciences)', coordinator: 'Pratham L', contactNum: '9108717149' },
     ];
 

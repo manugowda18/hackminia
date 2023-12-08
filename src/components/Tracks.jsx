@@ -27,9 +27,9 @@ const Tracks = () => {
                         <div className='flex flex-col sm:p-14 p-2'>
                             <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                                 <div className='align-middle sm:mt-12 mt-0  sm:text-base text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
-                                    <p>Artificial Intelligence</p>
+                                    <p>AIML</p>
                                     <p>&</p>
-                                    <p>Machine Learning</p>
+                                    <p>Web Dev</p>
                                 </div>
                             </div>
                             <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-yellow-300 border-2 border-black" />
@@ -37,9 +37,9 @@ const Tracks = () => {
                         <div className='flex flex-col sm:p-14 p-2'>
                             <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                                 <div className='align-middle sm:mt-12 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
-                                    <p>Web Dev</p>
-                                    <p>&</p>
-                                    <p>Blockchain</p>
+                                    {/* <p>Web Dev</p> */}
+                                    {/* <p>&</p> */}
+                                    <p>Blockchain🚀</p>
                                 </div>
                             </div>
                             <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-green-600 border-2 border-black" />
