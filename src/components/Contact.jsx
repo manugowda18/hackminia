@@ -31,8 +31,8 @@ const Contact = () => {
 
             <div className='sm:mt-36 mt-16'>
                 <div className='flex sm:flex-row flex-col justify-center items-center'>
-                    <div className="text-stroke text-stroke-black opacity-30  text-white absolute sm:z-[-60] z-[-40] uppercase sm:text-[220px] text-[55px] sm:tracking-widest tracking-wide  sm:mt-[-264px] mt-[-440px]" >
-                        Contact
+                    <div className="text-stroke text-stroke-black opacity-30  text-white absolute sm:z-[-60] z-[-40] uppercase sm:text-[220px] text-[45px] sm:tracking-widest tracking-wide  sm:mt-[-264px] mt-[-440px]" >
+                        Contacts
                     </div>
                     <div className='flex flex-col sm:p-14 p-2 sm:mt-0 mt-3'>
                         <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >

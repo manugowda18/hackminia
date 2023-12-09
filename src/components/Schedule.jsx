@@ -27,70 +27,74 @@ const Schedule = () => {
         day1: [
             {
                 time: "8:00 AM IST",
-                event: "Main Registration Opens"
-            },
-            {
-                time: "8:30 AM IST",
-                event: "Breakfast"
-            },
-            {
-                time: "9:00 AM IST",
-                event: "Hacking Starts!"
+                event: "Main Registration Opens & Breakfast"
             },
             {
                 time: "10:00 AM IST",
-                event: "Team Formation & Idea Brainstorming Session"
+                event: "Opening Ceremony !! "
             },
             {
-                time: "12:30 PM IST",
-                event: "Lunch"
+                time: "11:15 AM IST",
+                event: "Hacking Starts!"
             },
             {
-                time: "3:00 PM IST",
-                event: "Project Feedback Session"
+                time: "1:00 PM IST",
+                event: "Lunch: Participants can go in batches till 2 PM"
+            },
+            {
+                time: "3:15 PM IST",
+                event: "1st Checkpoint: Teams update, get feedback."
             },
             {
                 time: "5:00 PM IST",
-                event: "Evening snack"
+                event: "Snacks: Quick refresh for high energy."
             },
             {
-                time: "7:30 PM IST",
-                event: "Main Registration Opens"
+                time: "8:15 PM IST",
+                event: "2nd Checkpoint: Teams showcase, address challenges. "
             },
             {
-                time: "11:00 PM IST",
-                event: "Late Night snack"
+                time: "8:30 PM IST",
+                event: " Dinner: Participants can go in batches till 9:30 PM"
+            },
+            {
+                time: "12:00 AM IST",
+                event: "Fun Games: Break from coding for fun activities."
+            },
+            {
+                time: "2:00 AM IST",
+                event: "Midnight snack: Coffee/Tea + Biscuit for focus."
             },
         ],
         day2: [
             {
-                time: "8:30 AM IST",
-                event: "Breakfast"
+                time: "7:00 AM IST",
+                event: "3rd Checkpoint: Teams finalize, prep for last stretch."
             },
             {
-                time: "9:00 AM IST",
-                event: "Project Submissions Due"
+                time: "8:00 AM IST",
+                event: "Breakfast: Final push breakfast for energy."
             },
             {
-                time: "10:00 AM IST",
-                event: "Project Judging"
+                time: "10:30 AM IST",
+                event: "Final Presentation: Teams present projects to judges and peers."
             },
             {
                 time: "12:30 PM IST",
-                event: "Lunch"
+                event: "Closing Ceremony: Winners announced, prizes distributed, acknowledgments. "
             },
             {
-                time: "2:30 PM IST",
-                event: "Finalist Notified"
+                time: "2:00 PM IST",
+                event: "Lunch: Hackathon concludes with celebratory lunch."
             },
-            {
-                time: "3:00 PM IST",
-                event: "Closing Ceremonies"
-            },
-            {
-                time: "4:30 PM IST",
-                event: "After Party 🎉"
-            },
+            // {
+            //     time: "Full Shedule",
+            //     event: <a href='https://pescemandya.org'>Click Here</a>
+            // },
+            // {
+            //     time: "4:30 PM IST",
+            //     event: "After Party 🎉"
+            // },
         ]
     }
 

@@ -70,7 +70,7 @@ const FAQ = () => {
 
   return (
     <div id='faqs' className='bg-svg bg-fixed sm:bg-[length:900px_4000px] bg-[length:1000px_1700px] bg-center p-3'>
-      <div className='sm:mt-12 mt-12 justify-center items-center flex '>
+      <div className='sm:mt-12 mt-12 justify-center items-center flex'>
         <div className="mx-auto p-8">
           <h1 className="sm:text-5xl text-2xl text-center mb-4 sm:tracking-widest tracking-normal bg-white underline decoration-wavy  decoration-purple-400 decoration-1">Frequently Asked Questions</h1>
           <div className='sm:mt-16 mt-6'>
