@@ -7,7 +7,6 @@ import Tracks from "./Tracks";
 import Faqs from "./Faqs";
 import Sponsers from "./Sponsers";
 import Footer from "./Footer";
-import ProblemStatement from "./ProblemStatement";
 import Contact from "./Contact";
 export {
     Navbar,
@@ -19,6 +18,5 @@ export {
     Faqs,
     Sponsers,
     Footer,
-    ProblemStatement,
     Contact
 };

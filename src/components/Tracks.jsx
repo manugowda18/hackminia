@@ -2,7 +2,7 @@ import React from 'react';
 
 const Tracks = () => {
 
-    const PSlink = "https://github.com/";
+    const PSlink = "https://docs.google.com/document/d/1nYRzmrGhzLinxvA-4SYFVfJo9H-tTZ0SlDgG35inS9Y/edit?usp=sharing";
     return (
         <div id='tracks' className='bg-svg sm:bg-[length:900px_4000px] bg-[length:1000px_1700px] bg-center p-3 mt-10'>
             <style>

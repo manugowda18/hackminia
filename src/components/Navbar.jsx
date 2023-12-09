@@ -35,7 +35,10 @@ const Navbar = () => {
         { link: "Schedule", path: "#schedule" },
         { link: "Prizes", path: "#prizes" },
         { link: "Tracks", path: "#tracks" },
-        { link: "Problem Statements", path: "/problemstatement" },
+        {
+            link: "Problem Statements",
+            path: "https://docs.google.com/document/d/1nYRzmrGhzLinxvA-4SYFVfJo9H-tTZ0SlDgG35inS9Y/edit?usp=sharing" // Replace problem statement links
+        },
         { link: "Sponsors", path: "#sponsors" },
         { link: "FAQs", path: "#faqs" },
         { link: "Contact", path: "#contact" },
