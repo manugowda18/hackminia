@@ -6,7 +6,8 @@ const Hero = () => {
 
     const title = "National level";
     const date = "05-06th January, 2024 ";
-    const link = "https://forms.gle/1MrVUywzqQQhALTH6";
+    // const link = "https://forms.gle/1MrVUywzqQQhALTH6";
+    const link = "https://forms.gle/9WAUYaFiqWzUjnxa6 "; // DUMMY
 
     return (
         <section className='bg-black '>
