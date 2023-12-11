@@ -4,6 +4,9 @@ import logo from "../assets/logo.png";
 import { FaXmark, FaBars } from "react-icons/fa6"
 
 const Navbar = () => {
+
+
+    const applyLink = "https://forms.gle/1MrVUywzqQQhALTH6";
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [isSticky, setIsSticky] = useState(false);
 
@@ -74,7 +77,7 @@ const Navbar = () => {
 
                     {/* btn for large divices */}
                     <div className='space-x-12 hidden lg:flex items-center'>
-                        <a href="https://devfolio.co/"><button className='bg-apply text-white py-2 px-4 transition ease-in-out delay-150 hover:-translate-all-1 hover:scale-110 rounded'>Apply now</button></a>
+                        <a href={applyLink}><button className='bg-apply text-white py-2 px-4 transition ease-in-out delay-150 hover:-translate-all-1 hover:scale-110 rounded'>Apply now</button></a>
                         {/* <a href="https://devfolio.co/"><button className='transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 */}
                     </div>
                     {/* menu button only mobile */}

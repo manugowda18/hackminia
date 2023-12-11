@@ -1,12 +1,12 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
-import Devfolio from "../assets/devfolio.png";
+import Devfolio from "../assets/apply.png";
 import PESCE from "../assets/pescelogo.png";
 const Hero = () => {
 
     const title = "National level";
     const date = "05-06th January, 2024 ";
-    const link = "https://devfolio.co";
+    const link = "https://forms.gle/1MrVUywzqQQhALTH6";
 
     return (
         <section className='bg-black '>
