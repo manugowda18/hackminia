@@ -13,7 +13,7 @@ const Hero = () => {
         <section className='bg-black '>
             <div>
                 <div className='max-w-[800px] mt-[-0px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
-                    <a href="devfolio.co" className='flex items-center justify-center mt-2'>
+                    <a href="#" className='flex items-center justify-center mt-2'>
                         <img src={PESCE} alt="" className='sm:w-40 w-20  mx-auto p-2' />
                     </a>
                     <h1 className='uppercase font-semibold text-white text-center font-poppins md:text-6xl sm:text-5xl text-3xl font-normal tracking-wide leading-tight'>
