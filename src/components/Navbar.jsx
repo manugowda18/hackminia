@@ -6,8 +6,7 @@ import { FaXmark, FaBars } from "react-icons/fa6"
 const Navbar = () => {
 
 
-    // const applyLink = "https://forms.gle/1MrVUywzqQQhALTH6";
-    const applyLink = "https://forms.gle/9WAUYaFiqWzUjnxa6"; //dummy link
+    const applyLink = "https://forms.gle/5k1Vn5HxPF7LsD898";
     
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [isSticky, setIsSticky] = useState(false);
