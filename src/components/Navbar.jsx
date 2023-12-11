@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+import logo from "../assets/logo.png";
 //react icons
 import { FaXmark, FaBars } from "react-icons/fa6"
 
@@ -59,10 +59,11 @@ const Navbar = () => {
         <header className='w-full bg-white fixed top-0 left-0 right-0'>
             <nav className={`py-4 lg:px-14 px-4 ${isSticky ? "sticky top-0 left-0 right-0 border-b bg-white duration-300" : ""}`}>
                 <div className='flex justify-between items-center text-base gap-8'>
+                    <a href=""><img src={logo} alt="" className='w-[150px] inline-block items-center' /></a>
                     {/* <a href="" className='text-2xl font-semibold flex items-center space-x-3'><img src={Logo} alt="Logo" className='w-20 inline-block items-center' /><span>PESCE</span></a> */}
-                    <a href="" className='inline-block items-center font-semibold text-3xl'>
+                    {/* <a href="" className='inline-block items-center font-semibold text-3xl'>
                         hack<span className='text-grey'>mania</span> 4.0
-                    </a>
+                    </a> */}
                     <ul className='md:flex space-x-12 hidden'>
                         {navItems.map((link, index) => (
                             <li key={index}>
