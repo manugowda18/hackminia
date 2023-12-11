@@ -29,9 +29,9 @@ const Tracks = () => {
                         <div className='flex flex-col sm:p-14 p-2'>
                             <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                                 <div className='align-middle sm:mt-8 mt-0  sm:text-base text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
-                                    <p>Artificial intelligence</p>
+                                    <p>AI ML</p>
                                     <p>&</p>
-                                    <p>Machine learning</p>
+                                    <p>Blockchain</p>
                                     <a href={PSlink} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
                                 </div>
                             </div>
@@ -40,9 +40,9 @@ const Tracks = () => {
                         <div className='flex flex-col sm:p-14 p-2'>
                             <div className="sm:w-[268px] w-[289px] sm:h-[178px] h-auto sm:mt-4 mt-2 bg-white border-2 border-black text-center " >
                                 <div className='align-middle sm:mt-8 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
-                                    <p>Blockchain🚀</p>
-                                    <p>&</p>
                                     <p>Web Dev</p>
+                                    <p>&</p>
+                                    <p>App Dev</p>
                                     <a href={PSlink} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
 
                                 </div>
