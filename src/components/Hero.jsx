@@ -1,12 +1,13 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
+
 import Devfolio from "../assets/apply.png";
 import PESCE from "../assets/pescelogo.png";
 const Hero = () => {
 
     const title = "National level";
     const date = "05-06th January, 2024 ";
-    const link = "https://forms.gle/5k1Vn5HxPF7LsD898"; 
+    const link = "https://forms.gle/5k1Vn5HxPF7LsD898";
 
     return (
         <section className='bg-black '>
@@ -50,7 +51,7 @@ const Hero = () => {
                                 repeat={Infinity}
                             /></h6>
                     </div>
-                    <a href={link} className='flex items-center justify-center mt-11'>
+                    <a href={link} className='flex items-center justify-center mt-8'>
                         <img src={Devfolio} alt="" className='sm:w-60 w-40  mx-auto' />
                     </a>
 

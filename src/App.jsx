@@ -1,5 +1,5 @@
 import './App.css';
-import { Navbar, Hero, BeforeShedule, Schedule, Prizes, Tracks, Faqs, Sponsers, Footer, Contact } from './components';
+import { Navbar, Hero, BeforeShedule, Schedule, Prizes, Tracks, Faqs, Sponsers, Footer, Contact, Announcement } from './components';
 
 function App() {
 
@@ -7,6 +7,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <Announcement />
       <BeforeShedule />
       <Schedule />
       <Prizes />
