@@ -12,7 +12,7 @@ const Hero = () => {
     return (
         <section className='bg-black '>
             <div>
-                <div className='max-w-[800px] mt-[-0px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
+                <div className='max-w-[800px] mt-[10px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
                     <a href="#" className='flex items-center justify-center mt-2'>
                         <img src={PESCE} alt="" className='sm:w-40 w-20  mx-auto p-2' />
                     </a>

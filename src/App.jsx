@@ -7,7 +7,6 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Announcement />
       <BeforeShedule />
       <Schedule />
       <Prizes />

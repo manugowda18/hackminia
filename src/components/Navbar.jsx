@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import logo from "../assets/logo.png";
+import Announcement from './Announcement';
 //react icons
 import { FaXmark, FaBars } from "react-icons/fa6"
 
@@ -105,6 +106,9 @@ const Navbar = () => {
                     </ul>
                 </div>
             </nav>
+            <div>
+            <Announcement/>
+            </div>
 
         </header >
     )
