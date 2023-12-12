@@ -4,7 +4,7 @@ import Marquee from "react-fast-marquee";
 const Announcement = () => {
     return (
         <div>
-            <Marquee className='sm:mt-[-25px] mt-[-40px]'>
+            <Marquee className='mt-[-25px]'>
                 <a href="" className='bg-black text-white px-16'>Announcement📢 : Click here to Download Guidelines and Code of Conduct</a>
                 <a href="" className='bg-black text-white px-16'>Announcement📢 : Click here to Download Guidelines and Code of Conduct</a>
                 <a href="" className='bg-black text-white px-16'>Announcement📢 : Click here to Download Guidelines and Code of Conduct</a>
