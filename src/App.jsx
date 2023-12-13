@@ -11,7 +11,7 @@ function App() {
       <Schedule />
       <Prizes />
       <Tracks />
-      <Sponsers />
+      {/* <Sponsers /> */}
       <Faqs />
       <Contact />
       <Footer />

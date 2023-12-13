@@ -44,7 +44,7 @@ const Navbar = () => {
             link: "Problem Statements",
             path: "https://drive.google.com/drive/folders/13OHn0mB1tTIPF8NphlNx3hQsZrg-7c6j?usp=sharing" // Replace problem statement links
         },
-        { link: "Sponsors", path: "#sponsors" },
+        // { link: "Sponsors", path: "#sponsors" },
         { link: "FAQs", path: "#faqs" },
         { link: "Contact", path: "#contact" },
     ];

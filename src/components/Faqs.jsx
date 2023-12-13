@@ -4,43 +4,43 @@ import React, { useState } from 'react';
 const questions = [
   {
     question: 'Who can participate?',
-    answer: 'Who can participate?',
+    answer: 'Only those who are currently studying Engineering are eligible to participate!',
   },
   {
     question: 'When will the applications close?',
-    answer: 'When will the applications close?',
+    answer: '24th December\'23',
   },
   {
     question: 'How does the application process work?',
-    answer: 'How does the application process work?',
+    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>,
   },
   {
     question: 'How much does it cost?',
-    answer: 'How much does it cost?',
+    answer: 'Rs 500/Team.',
   },
   {
     question: 'Can we apply as a team?',
-    answer: 'Can we apply as a team?',
+    answer: 'Yea!.Minimum 2 & Maximum 4.',
   },
   {
     question: 'What if I don\'t have a team or an idea?',
-    answer: 'What if I don\'t have a team or an idea?',
+    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>,
   },
   {
     question: 'Once I am accepted, what do I need to bring?',
-    answer: 'Once I am accepted, what do I need to bring?',
+    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>,
   },
   {
-    question: 'Do you provide travel reimbursements to hackers?',
-    answer: 'Do you provide travel reimbursements to hackers?',
+    question: 'Do you provide Accommodation to hackers?',
+    answer: 'Yea!.Accommodation including food, snacks, tea/coffee, and nap area will be provided.',
   },
   {
     question: 'What shouldn\'t I bring?',
-    answer: 'What shouldn\'t I bring?',
+    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>
   },
   {
     question: 'How does judging work?',
-    answer: 'How does judging work?',
+    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>
   },
 ];
 
