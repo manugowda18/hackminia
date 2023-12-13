@@ -42,7 +42,7 @@ const Navbar = () => {
         { link: "Tracks", path: "#tracks" },
         {
             link: "Problem Statements",
-            path: "https://docs.google.com/document/d/1nYRzmrGhzLinxvA-4SYFVfJo9H-tTZ0SlDgG35inS9Y/edit?usp=sharing" // Replace problem statement links
+            path: "https://drive.google.com/drive/folders/13OHn0mB1tTIPF8NphlNx3hQsZrg-7c6j?usp=sharing" // Replace problem statement links
         },
         { link: "Sponsors", path: "#sponsors" },
         { link: "FAQs", path: "#faqs" },

@@ -2,7 +2,11 @@ import React from 'react';
 
 const Tracks = () => {
 
-    const PSlink = "https://docs.google.com/document/d/1nYRzmrGhzLinxvA-4SYFVfJo9H-tTZ0SlDgG35inS9Y/edit?usp=sharing";
+    const PSAiMlBlockchian = "https://drive.google.com/drive/folders/1tiQQAEj69Be-rqKipfgj75y3GQPNx8lF?usp=sharing";
+    const webApp = "https://drive.google.com/drive/folders/1Chum7eVIYJef--D0KTwIYLv9ec7RlLM7?usp=sharing";
+    const Civil = "https://drive.google.com/drive/folders/1HCsX7m-mEkeVp7MTIY6b5ObcNRsmheVd?usp=sharing";
+    const Iot = "https://drive.google.com/drive/folders/1U_mdymhbPAqZb2z-9LFPxrdpw5W9RnNK?usp=sharing";
+    const Mech = "https://drive.google.com/drive/folders/1UOlcuWVGcn_40lUsVbk9_ADl4rY_awrH?usp=sharing";
     return (
         <div id='tracks' className='bg-svg sm:bg-[length:900px_4000px] bg-[length:1000px_1700px] bg-center p-3 mt-10'>
             <style>
@@ -32,7 +36,7 @@ const Tracks = () => {
                                     <p>AI ML</p>
                                     <p>&</p>
                                     <p>Blockchain</p>
-                                    <a href={PSlink} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
+                                    <a href={PSAiMlBlockchian} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
                                 </div>
                             </div>
                             <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-yellow-300 border-2 border-black" />
@@ -43,7 +47,7 @@ const Tracks = () => {
                                     <p>Web Dev</p>
                                     <p>&</p>
                                     <p>App Dev</p>
-                                    <a href={PSlink} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
+                                    <a href={webApp} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
 
                                 </div>
                             </div>
@@ -55,7 +59,7 @@ const Tracks = () => {
                                     <p>IoT</p>
                                     <p></p>
                                     <p className='text-[10px]'>(Internet of Things)</p>
-                                    <a href={PSlink} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
+                                    <a href={Iot} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
                                 </div>
                             </div>
                             <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-blue-600 border-2 border-black" />
@@ -68,7 +72,7 @@ const Tracks = () => {
                                     <p>Design Quest</p>
                                     <p></p>
                                     <p className='text-[10px]'>(Mechanical Sciences)</p>
-                                    <a href={PSlink} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
+                                    <a href={Mech} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
                                 </div>
                             </div>
                             <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-purple-400 border-2 border-black" />
@@ -78,7 +82,7 @@ const Tracks = () => {
                                 <div className='align-middle sm:mt-8 mt-0  sm:text-lg text-[15px] uppercase text-center sm:p-3 p-6  sm:tracking-widest tracking-normal'>
                                     <p>Abeyantrix </p>
                                     <p className='text-[10px]'>(Civil InnoStruct)</p>
-                                    <a href={PSlink} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
+                                    <a href={Civil} className='sm:text-[10px] text-[8px] text-purple-600 mt-1'>&quot;{`{PS: Click here.}`}&quot;</a>
                                 </div>
                             </div>
                             <div className="sm:w-[268px] w-[239px] sm:h-[181px] h-9 absolute sm:z-[-40] z-[-40] ml-8  bg-red-600 border-2 border-black" />
