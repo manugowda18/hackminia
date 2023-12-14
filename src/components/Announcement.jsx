@@ -1,5 +1,6 @@
 import React from 'react';
 import Marquee from "react-fast-marquee";
+import live from "../assets/live.gif";
 
 const Announcement = () => {
 
@@ -8,9 +9,15 @@ const Announcement = () => {
     return (
         <div>
             <Marquee className='border-y-2 border-black'>
+                <div className='flex items-center'> 
+                    <a href={problemStatement} className='flex items-center'> 
+                        <img src={live} alt="live"/>
+                        <p className='px-16 text-orange-500 capitalize'>Notice 📋: 🚨 Problem statements are now LIVE! 🌐 Click here to view.</p>
+                    </a>
+                </div>
                 <a href={guidelinesLink} target='_blank' rel="noreferrer" className='px-16 text-green-700 capitalize'>Announcement 📢 : Click here to Download Guidelines and Code of Conduct.!</a>
                 <p className='px-16 text-red-500 capitalize'>Alert ⚠️ : The last date to register is December 25th, 2023.</p>
-                <a href={problemStatement}><p className='px-16 text-orange-500 capitalize'>Notice 📋: 🚨 Problem statements are now LIVE! 🌐 Click here to view.</p></a>
+
 
             </Marquee>
         </div>
