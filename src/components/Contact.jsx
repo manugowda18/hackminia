@@ -8,6 +8,7 @@ const Contact = () => {
         { theme: 'Blockchain', coordinator: 'Manoj Gowda K S', contactNum: '9900882019' },
         { theme: 'Abeyantrix (Civil InnoStruct)', coordinator: 'Reethu & Toufeeq', contactNum: '8095438206,9513168009' },
         { theme: 'Design Quest (Mechanical Sciences)', coordinator: 'Pratham L', contactNum: '9108717149' },
+        { theme: 'IOT', coordinator: 'Suchitra H R', contactNum: '6363989397'}
     ];
 
 
