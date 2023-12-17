@@ -1,10 +1,12 @@
 // FAQ.js
 import React, { useState } from 'react';
 
+const guidelines = "https://drive.google.com/file/d/1bZ2aZpRARhrG-Qk45rNLfqXmm1Df7qAm/view?usp=sharing";
+
 const questions = [
   {
     question: 'Who can participate?',
-    answer: 'Only those who are currently studying Engineering are eligible to participate!',
+    answer: 'Only those who are currently studying Engineering are eligible to participate',
   },
   {
     question: 'When will the applications close?',
@@ -12,7 +14,7 @@ const questions = [
   },
   {
     question: 'How does the application process work?',
-    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>,
+    answer: <a href={guidelines} className='text-blue-600'>View Guidelines Here</a>,
   },
   {
     question: 'How much does it cost?',
@@ -20,15 +22,15 @@ const questions = [
   },
   {
     question: 'Can we apply as a team?',
-    answer: 'Yea!.Minimum 2 & Maximum 4.',
+    answer: 'Yea!.Minimum 2 & Maximum 4.All team members have to be from the same institution.',
   },
   {
     question: 'What if I don\'t have a team or an idea?',
-    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>,
+    answer: <a href={guidelines} className='text-blue-600'>View Guidelines Here</a>,
   },
   {
     question: 'Once I am accepted, what do I need to bring?',
-    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>,
+    answer: <a href={guidelines} className='text-blue-600'>View Guidelines Here</a>,
   },
   {
     question: 'Do you provide Accommodation to hackers?',
@@ -36,11 +38,11 @@ const questions = [
   },
   {
     question: 'What shouldn\'t I bring?',
-    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>
+    answer: <a href={guidelines} className='text-blue-600'>View Guidelines Here</a>
   },
   {
     question: 'How does judging work?',
-    answer: <a href='#' className='text-blue-600'>View Guidelines Here</a>
+    answer: <a href={guidelines} className='text-blue-600'>View Guidelines Here</a>
   },
 ];
 

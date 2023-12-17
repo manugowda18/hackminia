@@ -4,7 +4,7 @@ import live from "../assets/live.gif";
 
 const Announcement = () => {
 
-    const guidelinesLink = "https://drive.google.com/file/d/1GVuA8UeLy44SawEdTpdTFaLx0XczM-hk/";
+    const guidelinesLink = "https://drive.google.com/file/d/1bZ2aZpRARhrG-Qk45rNLfqXmm1Df7qAm/view?usp=sharing";
     const problemStatement = "https://drive.google.com/drive/folders/13OHn0mB1tTIPF8NphlNx3hQsZrg-7c6j?usp=sharing";
     return (
         <div>
