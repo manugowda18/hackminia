@@ -1,7 +1,7 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 
-import Devfolio from "../assets/apply.png";
+import Devfolio from "../assets/apply1.png";
 import PESCE from "../assets/pescelogo.png";
 const Hero = () => {
 

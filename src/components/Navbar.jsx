@@ -8,7 +8,7 @@ const Navbar = () => {
 
 
     const applyLink = "https://forms.gle/5k1Vn5HxPF7LsD898";
-    
+
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [isSticky, setIsSticky] = useState(false);
 
@@ -64,11 +64,11 @@ const Navbar = () => {
         <header className='w-full bg-white fixed top-0 left-0 right-0'>
             <nav className={`py-4 lg:px-14 px-4 ${isSticky ? "sticky top-0 left-0 right-0 border-b bg-white duration-300" : ""}`}>
                 <div className='flex justify-between items-center text-base gap-8'>
-                    <a href=""><img src={logo} alt="Logo" className='w-[150px] inline-block items-center' /></a>
+                    {/* <a href=""><img src={logo} alt="Logo" className='w-[150px] inline-block items-center' /></a> */}
                     {/* <a href="" className='text-2xl font-semibold flex items-center space-x-3'><img src={Logo} alt="Logo" className='w-20 inline-block items-center' /><span>PESCE</span></a> */}
-                    {/* <a href="" className='inline-block items-center font-semibold text-3xl'>
-                        hack<span className='text-grey'>mania</span> 4.0
-                    </a> */}
+                    <a href="https://pescehackmania.tech" className='inline-block items-center font-semibold text-3xl'>
+                        &lt; Hack<span className='text-grey'>sprint</span> /&gt;
+                    </a>
                     <ul className='md:flex space-x-12 hidden'>
                         {navItems.map((link, index) => (
                             <li key={index}>
@@ -79,7 +79,7 @@ const Navbar = () => {
 
                     {/* btn for large divices */}
                     <div className='space-x-12 hidden lg:flex items-center'>
-                        <a href={applyLink}><button className='bg-apply text-white py-2 px-4 transition ease-in-out delay-150 hover:-translate-all-1 hover:scale-110 rounded'>Apply now</button></a>
+                        <a href={applyLink}><button className='bg-apply text-white py-2 px-4 transition ease-in-out delay-150 hover:-translate-all-1 hover:scale-110 rounded'>Closed..!</button></a>
                         {/* <a href="https://devfolio.co/"><button className='transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 */}
                     </div>
                     {/* menu button only mobile */}
@@ -107,7 +107,7 @@ const Navbar = () => {
                 </div>
             </nav>
             <div>
-            <Announcement/>
+                <Announcement />
             </div>
 
         </header >
